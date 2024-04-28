@@ -1,9 +1,3 @@
-
-### `README.md`
-
-A `README.md` file is typically written in Markdown format, which allows for easy formatting. Below is a template that you can customize for your scuba diving club project:
-
-```markdown
 # Scuba Diving Club Management System
 
 This project is a web-based management system for a Scuba Diving Club. It handles member registration, training sessions scheduling, equipment management, and tour planning.
